@@ -37,3 +37,7 @@ This project is lightweight, beginner-friendly, and perfect for learning core ga
 ## 🔗 Link 🔗
 
 ### 🔹 https://flappyrumma07.netlify.app/
+
+or
+
+### 🔹 https://rumman-07.github.io/Flappy-Bird/
